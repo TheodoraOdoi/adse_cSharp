@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\bin\Debug\net8.0\sess01_introduction.exe
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\bin\Debug\net8.0\sess01_introduction.deps.json
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\bin\Debug\net8.0\sess01_introduction.runtimeconfig.json
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\bin\Debug\net8.0\sess01_introduction.dll
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\bin\Debug\net8.0\sess01_introduction.pdb
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.AssemblyInfo.cs
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.sourcelink.json
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.dll
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\refint\sess01_introduction.dll
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.pdb
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\sess01_introduction.genruntimeconfig.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess01_introduction\obj\Debug\net8.0\ref\sess01_introduction.dll
