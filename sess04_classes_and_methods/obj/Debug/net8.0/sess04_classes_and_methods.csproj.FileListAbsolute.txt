@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.AssemblyInfo.cs
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.sourcelink.json
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.AssemblyInfoInputs.cache
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.AssemblyInfo.cs
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.csproj.CoreCompileInputs.cache
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess04_classes_and_methods\obj\Debug\net8.0\sess04_classes_and_methods.sourcelink.json

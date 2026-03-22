@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\sampleemployeexmldocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|solutionrelative:sess01_introduction\\sampleemployeexmldocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\rightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\rightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|solutionrelative:sess01_introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\demorightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\demorightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SampleEmployeeXMLDocumentation.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "RelativeDocumentMoniker": "sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "RelativeToolTip": "sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAmwGAAAABkAAAAAAAAAA==",
+              "Title": "RightAngledTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\RightAngledTriangle.cs",
+              "RelativeDocumentMoniker": "sess04_classes_and_methods\\RightAngledTriangle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\RightAngledTriangle.cs",
+              "RelativeToolTip": "sess04_classes_and_methods\\RightAngledTriangle.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:21:07.289Z",
+              "WhenOpened": "2026-03-19T08:54:08.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\Program.cs",
-              "RelativeDocumentMoniker": "sess01_introduction\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\Program.cs",
-              "RelativeToolTip": "sess01_introduction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "DemoRightAngledTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
+              "RelativeDocumentMoniker": "sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
+              "RelativeToolTip": "sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:31:58.67Z",
+              "WhenOpened": "2026-03-19T08:47:22.82Z",
               "EditorCaption": ""
             }
           ]

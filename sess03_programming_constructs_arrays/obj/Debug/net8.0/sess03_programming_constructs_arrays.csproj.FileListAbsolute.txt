@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.AssemblyInfo.cs
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.sourcelink.json
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.AssemblyInfoInputs.cache
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.AssemblyInfo.cs
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.csproj.CoreCompileInputs.cache
+C:\Users\todoi\Desktop\adse_2501\sem2\06_developing_applications_with_c#\adse2501\sess03_programming_constructs_arrays\obj\Debug\net8.0\sess03_programming_constructs_arrays.sourcelink.json

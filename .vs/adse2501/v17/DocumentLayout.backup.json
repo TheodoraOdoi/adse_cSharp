@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\sampleemployeexmldocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|solutionrelative:sess01_introduction\\sampleemployeexmldocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\demosimplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\demosimplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6F3DC2-E2BE-46F6-9288-47FBC9EAC51E}|sess01_introduction\\sess01_introduction.csproj|solutionrelative:sess01_introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\rightangletriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\rightangletriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\simplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\simplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\sess04_classes_and_methods.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\sess04_classes_and_methods.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SampleEmployeeXMLDocumentation.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "RelativeDocumentMoniker": "sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "RelativeToolTip": "sess01_introduction\\SampleEmployeeXMLDocumentation.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAmwGAAAABkAAAAAAAAAA==",
+              "Title": "DemoSimpleMath.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\DemoSimpleMath.cs",
+              "RelativeDocumentMoniker": "sess04_classes_and_methods\\DemoSimpleMath.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\DemoSimpleMath.cs",
+              "RelativeToolTip": "sess04_classes_and_methods\\DemoSimpleMath.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T08:21:07.289Z",
+              "WhenOpened": "2026-03-19T08:07:49.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\Program.cs",
-              "RelativeDocumentMoniker": "sess01_introduction\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess01_introduction\\Program.cs",
-              "RelativeToolTip": "sess01_introduction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "RightAngleTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\RightAngleTriangle.cs",
+              "RelativeDocumentMoniker": "sess04_classes_and_methods\\RightAngleTriangle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\RightAngleTriangle.cs",
+              "RelativeToolTip": "sess04_classes_and_methods\\RightAngleTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:31:58.67Z",
+              "WhenOpened": "2026-03-19T07:50:42.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleMath.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\SimpleMath.cs",
+              "RelativeDocumentMoniker": "sess04_classes_and_methods\\SimpleMath.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\SimpleMath.cs",
+              "RelativeToolTip": "sess04_classes_and_methods\\SimpleMath.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:33:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sess04_classes_and_methods",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\sess04_classes_and_methods.csproj",
+              "RelativeDocumentMoniker": "sess04_classes_and_methods\\sess04_classes_and_methods.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\sess04_classes_and_methods.csproj",
+              "RelativeToolTip": "sess04_classes_and_methods\\sess04_classes_and_methods.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T06:57:47.484Z",
               "EditorCaption": ""
             }
           ]
