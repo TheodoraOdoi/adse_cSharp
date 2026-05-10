@@ -1,14 +1,13 @@
-﻿using System.Data;
-
-namespace sess04_classes_and_methods
+﻿namespace sess04_classes_and_methods
 {
     /// <summary>
-    /// This class will be used to create a Person object & later inherited 
-    /// to create specialised classes
+    /// The SimplePerson class will be used to create/instantiate Person objects and later inherited to
+    /// create specialised classes.
     /// </summary>
+
     public class SimplePerson
     {
-        //Instance fields
+        // Instance fields
         protected string names;
         protected DateTime birthDate;
         protected string gender;
@@ -32,13 +31,13 @@ namespace sess04_classes_and_methods
         {
             return this.birthDate;
         }
-        public void setBirthDate(DateTime birthDate) { this.birthDate = birthDate; }
+        public void SetBirthDate(DateTime birthDate) { this.birthDate = birthDate; }
 
         public string GetGender()
         {
             return this.gender;
         }
-        public void setGender(string gender) { this.gender = gender; }
+        public void SetGender(string gender) { this.gender = gender; }
 
         public string GetNationality()
         {
@@ -49,12 +48,12 @@ namespace sess04_classes_and_methods
         public override string ToString()
         {
             return $"Person's Details" +
-                   $"\n------------------------------------------" +
+                   $"\n----------------------------------------" +
                    $"\nName: {this.GetNames()}" +
                    $"\nDate of Birth: {this.GetBirthDate()}" +
                    $"\nGender: {this.GetGender()}" +
                    $"\nNationality: {this.GetNationality()}" +
-                   $"\n------------------------------------------\n";
+                   $"\n----------------------------------------\n";
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\bin\Debug\net8.0\sess05_inheritance_and_polymorphism.exe
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\bin\Debug\net8.0\sess05_inheritance_and_polymorphism.deps.json
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\bin\Debug\net8.0\sess05_inheritance_and_polymorphism.runtimeconfig.json
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\bin\Debug\net8.0\sess05_inheritance_and_polymorphism.dll
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\bin\Debug\net8.0\sess05_inheritance_and_polymorphism.pdb
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.AssemblyInfo.cs
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.sourcelink.json
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.dll
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\refint\sess05_inheritance_and_polymorphism.dll
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.pdb
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\sess05_inheritance_and_polymorphism.genruntimeconfig.cache
+C:\Users\user\Desktop\adse2501\sem2\06_developing_applications_with_c#\adse2501\sess05_inheritance_and_polymorphism\obj\Debug\net8.0\ref\sess05_inheritance_and_polymorphism.dll

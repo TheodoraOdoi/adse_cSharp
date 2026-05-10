@@ -1,16 +1,18 @@
-﻿namespace sess03_programming_constructs_arrays;
-/// <summary>
-/// Program to display the first ten integers using a while loop.
-/// </summary>
-public class FirstTenIntsWhile
+﻿namespace sess03_programming_constructs_arrays
 {
-    static void Main(string[] args)
+    /// <summary>
+    /// Program to display the first ten integers using a while loop.
+    /// </summary>
+    public class FirstTenIntsWhile
     {
-        uint n = 1;
-        while (n <= 10)
+        static void Main(string[] args)
         {
-            Console.WriteLine(n);
-            n++;
+            uint n = 1;
+            while (n <= 10)
+            {
+                Console.WriteLine(n);
+                n++;
+            }
         }
     }
 }

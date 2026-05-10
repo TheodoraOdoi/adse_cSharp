@@ -5,7 +5,7 @@
     /// </summary>
     public class Rect
     {
-        //Fields
+        // Fields
         private uint length;
         private uint width;
 
@@ -23,26 +23,25 @@
 
         public uint GetLength() { return this.length; }
 
-        public void SetLength(uint length) { this.length = length; } 
-        
-        public uint GetWidth() { return this.width; }  
-        
+        public void SetLength(uint length) { this.length = length; }
+
+        public uint GetWidth() { return this.width; }
+
         public void SetWidth(uint width) { this.width = width; }
 
-        public uint CalcArea() { return this.length * this.width; }
+        public ulong CalcArea() { return this.length * this.width; }
 
-        public CalcPerimeter() { return 2 * (this.length + this.width); }   
+        public ulong CalcPerimeter() { return 2 * (this.length + this.width); }
 
         public override string? ToString()
         {
             return $"Rectangle's Dimensions" +
-                $"\n---------------------------------------------" +
+                $"\n-------------------------------------" +
                 $"\nLength: {this.GetLength()}" +
                 $"\nWidth: {this.GetWidth()}" +
                 $"\nArea: {this.CalcArea()}" +
                 $"\nPerimeter: {this.CalcPerimeter()}" +
-                $"\n---------------------------------------------"
-                ;
+                $"\n-------------------------------------\n";
         }
     }
 }

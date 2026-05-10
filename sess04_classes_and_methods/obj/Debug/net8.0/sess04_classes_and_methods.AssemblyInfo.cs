@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sess04_classes_and_methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdda78b43fc1d45970eb187f0e824e648e0442ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+863e3ddf1871e0af888212c6d4c4b31052bb968b")]
 [assembly: System.Reflection.AssemblyProductAttribute("sess04_classes_and_methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sess04_classes_and_methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

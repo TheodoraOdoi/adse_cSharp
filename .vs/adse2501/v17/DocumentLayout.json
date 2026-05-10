@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\rightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\rightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{199C2C82-AF9C-4C87-B946-45593086310A}|sess12_advanced_csharp_concepts\\sess12_advanced_csharp_concepts.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\parallelloops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C2C82-AF9C-4C87-B946-45593086310A}|sess12_advanced_csharp_concepts\\sess12_advanced_csharp_concepts.csproj|solutionrelative:sess12_advanced_csharp_concepts\\parallelloops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\demorightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58A0C056-2A0F-48A6-A529-2E96B9652D0B}|sess04_classes_and_methods\\sess04_classes_and_methods.csproj|solutionrelative:sess04_classes_and_methods\\demorightangledtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{199C2C82-AF9C-4C87-B946-45593086310A}|sess12_advanced_csharp_concepts\\sess12_advanced_csharp_concepts.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C2C82-AF9C-4C87-B946-45593086310A}|sess12_advanced_csharp_concepts\\sess12_advanced_csharp_concepts.csproj|solutionrelative:sess12_advanced_csharp_concepts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A637A59C-4E63-4FEB-A3A3-964D11E25E1E}|sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A637A59C-4E63-4FEB-A3A3-964D11E25E1E}|sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj|solutionrelative:sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C2C82-AF9C-4C87-B946-45593086310A}|sess12_advanced_csharp_concepts\\sess12_advanced_csharp_concepts.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\multipleanonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C2C82-AF9C-4C87-B946-45593086310A}|sess12_advanced_csharp_concepts\\sess12_advanced_csharp_concepts.csproj|solutionrelative:sess12_advanced_csharp_concepts\\multipleanonymous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\studentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\studentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\studentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\studentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|c:\\users\\user\\desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\edulink_student_staff_wpf_db\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79433DB-254C-41E3-A48B-88FABB3D1310}|Edulink_Student_Staff_WPF_DB\\Edulink_Student_Staff_WPF_DB.csproj|solutionrelative:edulink_student_staff_wpf_db\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +59,141 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RightAngledTriangle.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\RightAngledTriangle.cs",
-              "RelativeDocumentMoniker": "sess04_classes_and_methods\\RightAngledTriangle.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\RightAngledTriangle.cs",
-              "RelativeToolTip": "sess04_classes_and_methods\\RightAngledTriangle.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDwAAAAFAAAAAAAAAA==",
+              "Title": "ParallelLoops.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\ParallelLoops.cs",
+              "RelativeDocumentMoniker": "sess12_advanced_csharp_concepts\\ParallelLoops.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\ParallelLoops.cs",
+              "RelativeToolTip": "sess12_advanced_csharp_concepts\\ParallelLoops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T08:54:08.2Z",
+              "WhenOpened": "2026-05-08T13:33:14.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DemoRightAngledTriangle.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
-              "RelativeDocumentMoniker": "sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
-              "RelativeToolTip": "sess04_classes_and_methods\\DemoRightAngledTriangle.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAAAjAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\Car.cs",
+              "RelativeDocumentMoniker": "sess12_advanced_csharp_concepts\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\Car.cs",
+              "RelativeToolTip": "sess12_advanced_csharp_concepts\\Car.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T08:47:22.82Z",
+              "WhenOpened": "2026-05-08T13:29:18.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sess10_generics_and_iterators",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj",
+              "RelativeDocumentMoniker": "sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj",
+              "RelativeToolTip": "sess10_generics_and_iterators\\sess10_generics_and_iterators.csproj",
+              "ViewState": "AgIAAAQAAABQGgVA/5YmwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T11:39:31.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultipleAnonymous.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\MultipleAnonymous.cs",
+              "RelativeDocumentMoniker": "sess12_advanced_csharp_concepts\\MultipleAnonymous.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\sess12_advanced_csharp_concepts\\MultipleAnonymous.cs",
+              "RelativeToolTip": "sess12_advanced_csharp_concepts\\MultipleAnonymous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T11:39:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml.cs",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:28:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\StudentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T10:27:52.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\MainWindow.xaml",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T10:00:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-08T10:23:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StudentViewModel.cs",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\StudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:26:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml.cs",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\StaffWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:23:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Edulink_Student_Staff_WPF_DB\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\adse2501\\sem2\\06_developing_applications_with_c#\\adse2501\\Edulink_Student_Staff_WPF_DB\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Edulink_Student_Staff_WPF_DB\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T09:59:57.074Z",
               "EditorCaption": ""
             }
           ]
